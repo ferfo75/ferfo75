@@ -1,4 +1,4 @@
-# Hola 👋
+# Hola, soy Fernando Calvo 👋
 
 **Infraestructura y seguridad IT**
 
@@ -47,3 +47,10 @@ decisiones de diseño en una entrevista.
 - **Verifico antes de afirmar:** cada cambio en producción lleva su comprobación y su marcha atrás.
 - **Documento los errores también:** lo que se probó y falló ahorra tiempo al próximo.
 - **Secretos fuera del código** y datos reales fuera de los repositorios públicos.
+
+## Contacto
+
+- LinkedIn: https://www.linkedin.com/in/fernando-calvo-23388514b/
+- - Email: fernandoecalvo@gmail.com
+  - - Ubicación: Exaltación de la Cruz, Argentina
+    - 
